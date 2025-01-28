@@ -34,7 +34,7 @@ Workshop 9 task
  
 <img width="980" alt="截屏2025-01-28 04 11 12" src="https://github.com/user-attachments/assets/ce11f508-3493-4186-86c1-69812b952399" />
 
--I created another system to seperate two different types of lines to solve this problem. 
+- I created another system to seperate two different types of lines to solve this problem. 
 
 
 ### Here is the URL to the webpage for this project: https://qzha880.github.io/Workshop-9-task/
